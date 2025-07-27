@@ -49,7 +49,6 @@ Network Security Scan Report
 Generated at: [timestamp]
 
 Scanned Devices: X
-==================================================
 
 Device: 192.168.1.1 (AA-BB-CC-DD-EE-FF)
   Open Ports:
